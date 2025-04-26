@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Emre Kardaşlar</h1>
+<h3 align="center">Software Architect</h3>
 
-<!--
-**emrekardaslar/emrekardaslar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 Currently working at **Akakçe**, focusing on **system architecture**, **frontend modernization**, and **fullstack development**.
+- 🛠 I have 4 years of professional experience across **.NET Core**, **React**, **Remix**, **Astro**, **MSSQL**, **Django**, and **Python** technologies.
+- 🌱 Always learning new technologies, currently exploring **Astro SSR**, **Kubernetes**, and **high-performance API designs**.
+- 💬 Feel free to ask me about **system design**, **frontend and backend development**, or **legacy system modernization**.
+- 📫 Reach me at: [emre.kardaslar@gmail.com](mailto:emrekardaslar@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Technologies & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
+</p>
+
+
+### 🌍 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/emre-karda%C5%9Flar-271775169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="emrekardaslar" height="30" width="30" /></a>
+<a href="mailto:emre.kardaslar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="emrekardaslar" height="30" width="30" /></a>
+</p>
