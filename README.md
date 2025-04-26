@@ -3,10 +3,10 @@
 
 ---
 
-- 🔭 Currently working at **Akakçe**, focusing on **system architecture**, **frontend modernization**, and **fullstack development**.
+- 🔭 Currently working at **Akakçe**, specializing in **system architecture** and **technical analysis**, after previous experience in **frontend development**.
 - 🛠 I have 4 years of professional experience across **.NET Core**, **React**, **Remix**, **Astro**, **MSSQL**, **Django**, and **Python** technologies.
 - 🌱 Always learning new technologies, currently exploring **Astro SSR**, **Kubernetes**, and **high-performance API designs**.
-- 💬 Feel free to ask me about **system design**, **frontend and backend development**, or **legacy system modernization**.
+- 💬 Feel free to ask me about **system design**, **frontend development**, or **legacy system modernization**.
 - 📫 Reach me at: [emre.kardaslar@gmail.com](mailto:emrekardaslar@gmail.com)
 
 ---
