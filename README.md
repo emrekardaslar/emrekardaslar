@@ -20,6 +20,20 @@
 </p>
 
 
+---
+
+### 🎮 Mobile Games on Google Play
+
+I also enjoy building mobile games using **Phaser**.
+
+You can check out my published games here:
+
+[![Google Play Developer Page](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/dev?id=8052767247104970847)
+
+---
+
+
+
 ### 🌍 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/emre-karda%C5%9Flar-271775169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="emrekardaslar" height="30" width="30" /></a>
