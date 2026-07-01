@@ -2,7 +2,7 @@
 
 - 🔭 Currently working at **Akakçe**, specializing in **software architecture** after previous experience in **frontend development**.
 - 🛠 Previously developed **IoT platforms** as a **fullstack developer**, using **Spring Boot**, **Angular**, and **Python**.
-- 🛠 I have 4 years of professional experience across **.NET Core**, **React**, **Remix**, **Astro**, **MSSQL**, **NodeJS**, **Django**, and **Python** technologies.
+- 🛠 I have 5 years of professional experience across **.NET Core**, **React**, **Remix**, **Astro**, **MSSQL**, **NodeJS**, **Django**, and **Python** technologies.
 - 🌱 Currently exploring **Astro SSR**, **Kubernetes**, and **high-performance API designs**.
 - 📫 Reach me at: [emre.kardaslar@gmail.com](mailto:emrekardaslar@gmail.com)
 
